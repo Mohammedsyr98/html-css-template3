@@ -1761,7 +1761,7 @@ header .container .main-nav>li:hover .mega-menu {
 .stats {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url('/images/stats.jpg');
+    background-image: url('../images/stats.jpg');
     min-height: 300px;
     text-align: center;
     position: relative;
@@ -1885,7 +1885,7 @@ header .container .main-nav>li:hover .mega-menu {
     text-align: center;
     align-items: center;
     position: relative;
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(../images/discount-background1.jpg);
     animation: change-background 10s linear infinite;
     background-position: center;
     background-size: cover;
@@ -1895,11 +1895,11 @@ header .container .main-nav>li:hover .mega-menu {
 
     0%,
     100% {
-        background-image: url(/images/discount-background1.jpg);
+        background-image: url(../images/discount-background1.jpg);
     }
 
     50% {
-        background-image: url(/images/discount-background2.jpg);
+        background-image: url(../images/discount-background2.jpg);
     }
 }
 
